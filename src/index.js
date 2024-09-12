@@ -1,4 +1,4 @@
-import { Canvas } from './components/Canvas'
+import 'garevna-canvas'
 
 const { image } = require('./configs').default
 
